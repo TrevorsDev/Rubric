@@ -20,3 +20,5 @@ node_modules/
 
 # AWS
 .aws/
+package/
+lambda_deployment.zip

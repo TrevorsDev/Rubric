@@ -68,7 +68,7 @@ export default function Home() {
             Rubric
           </span>
           <span className="text-space-dim select-none">|</span>
-          <span className="text-sm text-gray-500">Job-Fit Analyzer</span>
+          <span className="text-sm text-gray-500">Job Application Intelligence</span>
         </div>
       </header>
 

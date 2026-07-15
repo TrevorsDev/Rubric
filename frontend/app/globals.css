@@ -10,6 +10,13 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Space palette — single source of truth for all dark UI colors */
+  --color-space-bg: #09090f;
+  --color-space-panel: #0e0d1a;
+  --color-space-border: #1e1a35;
+  --color-space-dim: #2a2450;
+  --color-space-accent: #7c3aed;
 }
 
 @media (prefers-color-scheme: dark) {
